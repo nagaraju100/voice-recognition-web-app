@@ -24,8 +24,8 @@ This is a web application that takes voice input from the user, uses speech reco
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/voice-recognition-web-app.git
-    cd voice-recognition-web-app
+    git clone https://github.com/nagaraju100/voice-recognition-app.git
+    cd voice-recognition-app
     ```
 
 2. **Create and activate a virtual environment:**
