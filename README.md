@@ -79,4 +79,4 @@ voice-recognition-web-app/
 
 ## Application Flow Chart.
 
-![Voice Recognition Web Application Flow Chart](/images/voice_recognition_flow_chart.png)
+![Voice Recognition Web Application Flow Chart](/images/voice_recognition_flow_chart.jpeg)
