@@ -64,6 +64,11 @@ This is a web application that takes voice input from the user, uses speech reco
     ```
 
     ![Voice Recognition Web Application](/images/application_start_page.JPG)
+    
+
+
+## Application Flow Chart
+![Voice Recognition Web Application Flow Chart](/images/voice_recognition_flow_chart.jpg)
 
 ## Project Structure
 
@@ -76,7 +81,7 @@ voice-recognition-web-app/
 └── static/
     └── script.js
 
+```
 
-## Application Flow Chart.
 
-![Voice Recognition Web Application Flow Chart](/images/voice_recognition_flow_chart.jpeg)
+
