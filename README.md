@@ -63,6 +63,8 @@ This is a web application that takes voice input from the user, uses speech reco
     http://127.0.0.1:5000/
     ```
 
+    ![Voice Recognition Web Application](\images\application_start_page.JPG)
+
 ## Project Structure
 
 ```plaintext
