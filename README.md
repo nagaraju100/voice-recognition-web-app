@@ -75,3 +75,8 @@ voice-recognition-web-app/
 │   └── index.html
 └── static/
     └── script.js
+
+
+## Application Flow Chart.
+
+![Voice Recognition Web Application Flow Chart](/images/voice_recognition_flow_chart.png)
